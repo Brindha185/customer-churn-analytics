@@ -1,0 +1,5 @@
+household_type,customers,churned,churn_pct
+Senior,1142,476,41.68
+Non-senior single,2781,877,31.54
+Non-senior with partner,1566,422,26.95
+Non-senior with dependents,1554,94,6.05

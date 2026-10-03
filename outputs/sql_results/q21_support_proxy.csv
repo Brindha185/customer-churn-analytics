@@ -1,0 +1,5 @@
+internet_service,tech_support,customers,churned,churn_pct
+DSL,No,1243,345,27.76
+DSL,Yes,1178,114,9.68
+Fiber optic,No,2230,1101,49.37
+Fiber optic,Yes,866,196,22.63

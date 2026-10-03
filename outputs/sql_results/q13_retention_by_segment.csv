@@ -1,0 +1,11 @@
+contract_category,tenure_group,customers,retention_pct
+Long-term,0-6 mo,68,94.12
+Long-term,7-12 mo,124,92.74
+Long-term,13-24 mo,287,94.43
+Long-term,25-48 mo,792,92.3
+Long-term,49-72 mo,1897,93.46
+Month-to-month,0-6 mo,1413,44.8
+Month-to-month,7-12 mo,581,58.0
+Month-to-month,13-24 mo,737,62.28
+Month-to-month,25-48 mo,802,67.08
+Month-to-month,49-72 mo,342,73.98

@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+outputs/churn.db
+.DS_Store
+~$*.xlsx
+# Raw data: add only if the dataset license allows redistribution
+data/raw/*.xlsx
+data/raw/*.csv
+data/cleaned/*.csv
+excel/*.xlsx
+tableau/*.twbx
+outputs/sql_results/q12_*.csv

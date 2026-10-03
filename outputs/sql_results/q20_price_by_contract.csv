@@ -1,0 +1,9 @@
+contract_category,charge_group,customers,churned,churn_pct
+Long-term,Under 35,1027,17,1.66
+Long-term,35 to 69.99,654,34,5.2
+Long-term,70 to 89.99,603,39,6.47
+Long-term,90 and above,884,124,14.03
+Month-to-month,Under 35,704,171,24.29
+Month-to-month,35 to 69.99,1067,373,34.96
+Month-to-month,70 to 89.99,1244,662,53.22
+Month-to-month,90 and above,860,449,52.21

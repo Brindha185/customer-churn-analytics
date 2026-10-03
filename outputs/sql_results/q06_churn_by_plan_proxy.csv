@@ -1,0 +1,16 @@
+internet_service,services_count,customers,churned,churn_pct
+DSL,0,294,121,41.16
+DSL,1,415,134,32.29
+DSL,2,454,92,20.26
+DSL,3,475,62,13.05
+DSL,4,359,33,9.19
+DSL,5,281,15,5.34
+DSL,6,143,2,1.4
+Fiber optic,0,399,241,60.4
+Fiber optic,1,551,308,55.9
+Fiber optic,2,579,278,48.01
+Fiber optic,3,643,244,37.95
+Fiber optic,4,493,157,31.85
+Fiber optic,5,290,56,19.31
+Fiber optic,6,141,13,9.22
+No,0,1526,113,7.4

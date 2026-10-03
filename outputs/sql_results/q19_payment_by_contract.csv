@@ -1,0 +1,9 @@
+contract_category,payment_method,customers,churned,churn_pct
+Long-term,Electronic check,515,77,14.95
+Long-term,Bank transfer (automatic),955,57,5.97
+Long-term,Credit card (automatic),979,54,5.52
+Long-term,Mailed check,719,26,3.62
+Month-to-month,Electronic check,1850,994,53.73
+Month-to-month,Bank transfer (automatic),589,201,34.13
+Month-to-month,Credit card (automatic),543,178,32.78
+Month-to-month,Mailed check,893,282,31.58

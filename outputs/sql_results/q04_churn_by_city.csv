@@ -1,0 +1,16 @@
+city,customers,churned,churn_pct
+San Diego,150,50,33.33
+Glendale,40,13,32.5
+Pasadena,30,9,30.0
+San Francisco,104,31,29.81
+Los Angeles,305,90,29.51
+Berkeley,32,9,28.13
+Stockton,44,12,27.27
+San Jose,112,29,25.89
+Riverside,32,8,25.0
+Oakland,52,13,25.0
+Long Beach,60,15,25.0
+Fresno,64,16,25.0
+Sacramento,108,26,24.07
+Whittier,30,5,16.67
+Bakersfield,40,3,7.5

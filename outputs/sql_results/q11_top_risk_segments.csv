@@ -1,0 +1,11 @@
+contract_category,tenure_group,internet_service,customers,churned,churn_pct,share_of_all_churn
+Month-to-month,0-6 mo,Fiber optic,619,459,74.15,24.56
+Month-to-month,7-12 mo,Fiber optic,297,184,61.95,9.84
+Month-to-month,13-24 mo,Fiber optic,425,215,50.59,11.5
+Month-to-month,0-6 mo,DSL,495,245,49.49,13.11
+Month-to-month,25-48 mo,Fiber optic,521,226,43.38,12.09
+Month-to-month,49-72 mo,Fiber optic,266,78,29.32,4.17
+Month-to-month,0-6 mo,No,299,76,25.42,4.07
+Month-to-month,7-12 mo,DSL,195,48,24.62,2.57
+Month-to-month,13-24 mo,DSL,232,55,23.71,2.94
+Long-term,25-48 mo,Fiber optic,189,34,17.99,1.82

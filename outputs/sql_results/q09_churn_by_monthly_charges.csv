@@ -1,0 +1,5 @@
+charge_group,customers,churned,churn_pct,avg_bill
+Under 35,1731,188,10.86,22.0
+35 to 69.99,1721,407,23.65,54.72
+70 to 89.99,1847,701,37.95,79.99
+90 and above,1744,573,32.86,100.99
